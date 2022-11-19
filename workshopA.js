@@ -2,7 +2,8 @@ const user = {
     name: "Jirapon",
     nickname: "Earth",
     hobby :"Gaming",
-    address:{
+    address:"Thailand",
+    province:{
         province:"Phetchaburi",
         postcode:"76000"
     }
@@ -15,7 +16,7 @@ const user = {
 const o = {
     nickname:"My Nickname is "+ `${user.nickname}`,
     hobby:"My Hobby is " + `${user.hobby}`,
-    postcode:"and my postcode is "+`${user.address.postcode}`
+    postcode:"and my postcode is "+`${user.province.postcode}`
     };
 
 console.log(getSentence(o))
