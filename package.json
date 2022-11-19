@@ -1,0 +1,23 @@
+{
+  "name": "Jirapon Tresup",
+  "version": "1.0.0",
+  "description": "Jirapon Tresup (Earth)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EarthChaotic/2013110164-Jirapon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EarthChaotic/2013110164-Jirapon/issues"
+  },
+  "homepage": "https://github.com/EarthChaotic/2013110164-Jirapon#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
