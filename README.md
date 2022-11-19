@@ -1,1 +1,0 @@
-Jirapon Tresup (Earth)
